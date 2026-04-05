@@ -8,6 +8,7 @@
 127.0.0.1 linkedin.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 m.linkedin.com
+127.0.0.1 de.linkedin.com
 127.0.0.1 touch.www.linkedin.com
 127.0.0.1 linkedin-ei.com
 127.0.0.1 licdn.com
@@ -23,6 +24,15 @@
 127.0.0.1 cdn.licdn.com
 127.0.0.1 content.licdn.com
 127.0.0.1 us-east-1.dc.ads.linkedin.com
+127.0.0.1 api.linkedin.com
+127.0.0.1 www.linkedin-ei.com
+127.0.0.1 edge-media.licdn.com
+127.0.0.1 media-exp1.licdn.com
+127.0.0.1 media-exp2.licdn.com
+127.0.0.1 media-exp3.licdn.com
+127.0.0.1 media-exp4.licdn.com
+127.0.0.1 px4.ads.linkedin.com
+127.0.0.1 collector.linkedin.com
 #anti KMPlayer
 127.0.0.1 player.kmpmedia.net
 127.0.0.1 kmpmedia.net
@@ -1322,7 +1332,6 @@
 127.0.0.1 xd-cdn.adobecces.com
 127.0.0.1 xd.adobe.com
 127.0.0.1 xdce.adobe.io
-#cdn-ffc.oobesaas.adobe.com/*
 # Corel Blocker
 127.0.0.1 product.corel.com
 127.0.0.1 mc.corel.com
@@ -1334,7 +1343,7 @@
 127.0.0.1 compute-1.amazonaws.com
 127.0.0.1 ipm.corel.com
 127.0.0.1 dev1.ipm.corel.public.corel.net
-# Win10 Blocker
+# Facebook/META Dataleak Blocker
 127.0.0.1 facebook.com
 127.0.0.1 www.facebook.com
 127.0.0.1 de-de.facebook.com
@@ -1346,6 +1355,37 @@
 127.0.0.1 www.fb.com
 127.0.0.1 www.meta.org
 127.0.0.1 meta.org
+127.0.0.1 touch.facebook.com
+127.0.0.1 mbasic.facebook.com
+127.0.0.1 business.facebook.com
+127.0.0.1 developers.facebook.com
+127.0.0.1 web.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 static.fbcdn.net
+127.0.0.1 scontent.fbcdn.net
+127.0.0.1 external.fbcdn.net
+127.0.0.1 video.xx.fbcdn.net
+127.0.0.1 image.xx.fbcdn.net
+127.0.0.1 content.xx.fbcdn.net
+127.0.0.1 connect.facebook.net
+127.0.0.1 graph.facebook.com
+127.0.0.1 pixel.facebook.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 analytics.facebook.com
+127.0.0.1 an.facebook.com
+127.0.0.1 ads-api.facebook.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 login.facebook.com
+127.0.0.1 secure.facebook.com
+127.0.0.1 auth.facebook.com
+127.0.0.1 fbsbx.com
+127.0.0.1 tfbnw.net
+127.0.0.1 star.c10r.facebook.com
+127.0.0.1 mqtt.facebook.com
+127.0.0.1 edge-chat.facebook.com
+127.0.0.1 upload.facebook.com
+127.0.0.1 bigzipfiles.facebook.com
+# MS/Windows Blocker
 127.0.0.1 ssw.live.com
 127.0.0.1 56kupdate.com
 127.0.0.1 www.56kupdate.com
@@ -22584,7 +22624,6 @@
 127.0.0.1 r1.literotica.com
 127.0.0.1 cx.atdmt.com
 127.0.0.1 cdn.atlassbx.com
-127.0.0.1 pixel.facebook.com
 127.0.0.1 ads.skupe.net
 127.0.0.1 005.free-counter.co.uk
 127.0.0.1 006.free-counter.co.uk
@@ -23088,7 +23127,6 @@
 127.0.0.1 clickserve.eu.dartsearch.net
 127.0.0.1 clickserve.uk.dartsearch.net
 127.0.0.1 doubleclick.net
-127.0.0.1 ad.doubleclick.net #[MVPS.Criteria]
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad2.doubleclick.net
 127.0.0.1 ad.ae.doubleclick.net
@@ -33224,17 +33262,12 @@
 127.0.0.1 app.facebook.com
 127.0.0.1 api.facebook.com
 127.0.0.1 iphone.facebook.com
-127.0.0.1 touch.facebook.com
 127.0.0.1 blog.facebook.com
-127.0.0.1 connect.facebook.net
-127.0.0.1 fbcdn.net
 127.0.0.1 www.fbcdn.net
 127.0.0.1 fbcdn.com
 127.0.0.1 www.fbcdn.com
 127.0.0.1 apps.facebook.com
-127.0.0.1 upload.facebook.com
 127.0.0.1 b.static.ak.fbcdn.net
-127.0.0.1 login.facebook.com
 127.0.0.1 www.login.facebook.com
 127.0.0.1 static.ak.connect.facebook.com
 127.0.0.1 www.static.ak.connect.facebook.com
@@ -36270,7 +36303,6 @@
 127.0.0.1 filter.ezmob.com
 127.0.0.1 xml.ezmob.com
 127.0.0.1 go.ezoic.net
-127.0.0.1 an.facebook.com
 127.0.0.1 fastapi.net
 127.0.0.1 mparticle.map.fastly.net
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
